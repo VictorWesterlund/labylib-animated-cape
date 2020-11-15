@@ -1,0 +1,3 @@
+[submodule "labylib"]
+	path = labylib
+	url = git://github.com/VictorWesterlund/labylib.git
